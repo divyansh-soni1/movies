@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 
-// 94de14d4
+
 import './App.css';
 import SearchIcon from './search.svg';
 import MovieCard from './MovieCard';
